@@ -1,0 +1,26 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="togpx">
+<script/>
+<metadata> </metadata>
+<trk>
+<trkseg>
+<trkpt lat="50.722499" lon="-127.490044">
+<ele>6.1692</ele>
+</trkpt>
+<trkpt lat="50.722377" lon="-127.48996">
+<ele>7.1844</ele>
+</trkpt>
+<trkpt lat="50.722354" lon="-127.490616">
+<ele>9.3592</ele>
+</trkpt>
+<trkpt lat="50.781898" lon="-128.425461">
+<ele>54.3312</ele>
+</trkpt>
+<trkpt lat="50.782047" lon="-128.425431">
+<ele>56.1076</ele>
+</trkpt>
+<trkpt lat="50.782047" lon="-128.425431">
+<ele>56.1076</ele>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>
