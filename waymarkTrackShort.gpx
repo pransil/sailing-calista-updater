@@ -3,23 +3,14 @@
 <metadata> </metadata>
 <trk>
 <trkseg>
-<trkpt lat="50.722499" lon="-127.490044">
+<trkpt lat="-9.530699" lon="-129.566114">
 <ele>6.1692</ele>
 </trkpt>
-<trkpt lat="50.722377" lon="-127.48996">
+<trkpt lat="-9.530909" lon="-130.566235">
 <ele>7.1844</ele>
 </trkpt>
-<trkpt lat="50.722354" lon="-127.490616">
+<trkpt lat="-11.531069" lon="-131.566354">
 <ele>9.3592</ele>
-</trkpt>
-<trkpt lat="50.781898" lon="-128.425461">
-<ele>54.3312</ele>
-</trkpt>
-<trkpt lat="50.782047" lon="-128.425431">
-<ele>56.1076</ele>
-</trkpt>
-<trkpt lat="50.782047" lon="-128.425431">
-<ele>56.1076</ele>
 </trkpt>
 </trkseg>
 </trk>
