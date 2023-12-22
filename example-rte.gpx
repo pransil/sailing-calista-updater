@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Codeium AI Assistant" xmlns="http://www.topografix.com/GPX/1/1">
+  <rte>
+    <name>Converted Route</name>
+    <rtept lat="-9.530699" lon="-129.566114">
+        <name>P1</name>
+      <ele>0</ele>
+      <time>2023-01-01T00:00:00Z</time>
+    </rtept>
+    <rtept lat="-9.530909" lon="-130.566235">
+      <name>This is point 2</name>
+      <ele>0</ele>
+      <time>2023-01-01T00:01:00Z</time>
+    </rtept>
+    <rtept lat="-11.531069" lon="-131.566354">
+      <name>This is point 3</name>
+      <ele>0</ele>
+      <time>2023-01-01T00:02:00Z</time>
+    </rtept>
+    <rtept lat="-12.531198" lon="-134.566485">
+      <name>This is point 4</name>
+      <ele>0</ele>
+      <time>2023-01-01T00:03:00Z</time>
+    </rtept>
+    <rtept lat="-13.531305" lon="-133.566623">
+      <name>This is point 5</name>
+      <ele>0</ele>
+      <time>2023-01-01T00:04:00Z</time>
+    </rtept>
+    <rtept lat="-13.531398" lon="-140.566762">
+      <name>This is point 6</name>
+      <ele>0</ele>
+      <time>2023-01-01T00:05:00Z</time>
+    </rtept>
+    <rtept lat="-14.531504" lon="-142.566895">
+      <name>This is point 7</name>
+      <ele>0</ele>
+      <time>2023-01-01T00:06:00Z</time>
+    </rtept>
+    <rtept lat="-15.531605" lon="-144.567027">
+      <name>This is point 8</name>
+      <ele>0</ele>
+      <time>2023-01-01T00:07:00Z</time>
+    </rtept>
+    <rtept lat="-14.531696" lon="-146.567166">
+      <name>This is point 9</name>
+      <ele>0</ele>
+      <time>2023-01-01T00:08:00Z</time>
+    </rtept>
+    <rtept lat="-17.531781" lon="-149.567304">
+      <name>This is point 10</name>
+      <ele>0</ele>
+      <time>2023-01-01T00:09:00Z</time>
+    </rtept>
+    <rtept lat="-19.531781" lon="-150.567304">
+      <name>This is point 11</name>
+      <ele>0</ele>
+      <time>2023-01-01T00:09:00Z</time>
+    </rtept>
+    <rtept lat="-20.531781" lon="-152.567304">
+      <name>This is point 11</name>
+      <ele>0</ele>
+      <time>2023-01-01T00:09:00Z</time>
+    </rtept>
+  </rte>
+</gpx>
